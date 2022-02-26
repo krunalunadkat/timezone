@@ -1,0 +1,6 @@
+name: Timezone
+description: To manage timeZone.
+type: module
+package: Custom
+core_version_requirement: ^8.8 || ^9
+configure: timezone.TimeZonesConfig
